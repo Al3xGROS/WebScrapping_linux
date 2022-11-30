@@ -27,7 +27,7 @@ The last file is a test that both recovers the data and calculates them over an 
 
 For both scrapping.sh and stats.sh, we use crontab -e to launch the scripts every 5 minutes for the first one and every day at 18 o'clock for the second one.
 <br/>
-![image](https://user-images.githubusercontent.com/113100516/204892266-c781477b-0f11-4a1f-83cf-82c8bbbfaed0.png)
+![crontabInterface](https://user-images.githubusercontent.com/113100516/204892266-c781477b-0f11-4a1f-83cf-82c8bbbfaed0.png)
 
 
 
@@ -36,4 +36,4 @@ For both scrapping.sh and stats.sh, we use crontab -e to launch the scripts ever
 And this is the result on the telegram bot with scrapping.sh being executed every minutes and stats.sh every ten minutes : 
 <br/>
 
-![example](https://user-images.githubusercontent.com/113100516/204892850-74c73e78-25ef-4c2e-9bbd-4f8ed4643019.png)
+![telegramOutput](https://user-images.githubusercontent.com/113100516/204892850-74c73e78-25ef-4c2e-9bbd-4f8ed4643019.png)
