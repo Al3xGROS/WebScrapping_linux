@@ -35,7 +35,8 @@ For both scrapping.sh and stats.sh, we use crontab -e to launch the scripts ever
 <br/>
 And this is the result on the telegram bot with scrapping.sh being executed every minutes and stats.sh every ten minutes : 
 <br/>
-![image](https://user-images.githubusercontent.com/113100516/204892335-5054077c-ef7c-4d4b-81c7-d17b4ae031c8.png)
+![image](https://user-images.githubusercontent.com/113100516/204892850-74c73e78-25ef-4c2e-9bbd-4f8ed4643019.png)
+
 
 
 
